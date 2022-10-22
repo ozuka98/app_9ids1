@@ -1,0 +1,26 @@
+Iniciar repositorio local
+git init
+
+Verificar archivos por subir 
+git status
+
+Agregar los archivos por subir (el punto 
+es igual a todos los archivos)
+git add .
+ 
+Poner un comentario de lo que se subira
+git commit -m "mensaje"
+
+
+Conectarse al repositorio github
+git remote add origin url
+
+Subir los archivos a mi respositorio de 
+github
+ 
+git push origin rama(main o master etc)
+
+(brindar permisos en el mensaje)
+
+
+
