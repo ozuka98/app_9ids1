@@ -13,7 +13,7 @@
                         </div>
                     <?php endif; ?>
 
-                    <?php echo e(__('You are logged in!')); ?>
+                    <?php echo e(__('You are logged in! Oscar')); ?>
 
                 </div>
             </div>
