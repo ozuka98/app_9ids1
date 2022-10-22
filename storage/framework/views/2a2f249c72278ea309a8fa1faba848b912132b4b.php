@@ -12,8 +12,8 @@
 
                         </div>
                     <?php endif; ?>
-                    
-                    <?php echo e(__('You are logged in! Randy')); ?>
+
+                    <?php echo e(__('You are logged in! Randy  s')); ?>
 
 
                 </div>
